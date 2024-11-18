@@ -2,10 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/todos/create/todo": "pages/api/todos/create/todo.js",
+  "/list/login": "pages/list/login.js",
   "/list/create/todo": "pages/list/create/todo.js",
-  "/api/todos/[todoId]": "pages/api/todos/[todoId].js",
-  "/": "pages/index.js",
-  "/todos/[todoId]": "pages/todos/[todoId].js",
-  "/list/[todoId]/editTodo": "pages/list/[todoId]/editTodo.js"
+  "/list/create/user": "pages/list/create/user.js",
+  "/api/todos/create/todo": "pages/api/todos/create/todo.js",
+  "/": "pages/index.js"
 }

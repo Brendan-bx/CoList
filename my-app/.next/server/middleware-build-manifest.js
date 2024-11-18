@@ -25,20 +25,10 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/list/[todoId]/editTodo": [
+    "/list/login": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/list/[todoId]/editTodo.js"
-    ],
-    "/list/create/todo": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/list/create/todo.js"
-    ],
-    "/todos/[todoId]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/todos/[todoId].js"
+      "static/chunks/pages/list/login.js"
     ]
   },
   "ampFirstPages": []
