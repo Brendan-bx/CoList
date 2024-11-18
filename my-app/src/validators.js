@@ -4,3 +4,4 @@ export const nameValidator = yup.string().min(3).required();
 export const contentValidator = yup.string().min(3).required();
 export const emailValidator = yup.string().email().required();
 export const descValidator = yup.string().min(3).required();
+export const passwordValidator = yup.string().min(8).required();

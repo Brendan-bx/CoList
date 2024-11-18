@@ -10,4 +10,7 @@ export const listUsers = new Schema({
   email: {
     type: String,
   },
+  password: {
+    type: String,
+  },
 });

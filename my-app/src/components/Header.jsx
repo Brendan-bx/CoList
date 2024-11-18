@@ -10,6 +10,8 @@ const Header = () => {
       </div>
 
       <Link href="/list/create/todo">Add</Link>
+      <Link href="/list/create/user">Sign up</Link>
+      <Link href="/list/login">Sign in</Link>
     </div>
   );
 };
